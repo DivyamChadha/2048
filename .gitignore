@@ -1,0 +1,4 @@
+*.class
+*.sh
+build/
+.DS_Store
